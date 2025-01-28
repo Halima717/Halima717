@@ -7,7 +7,7 @@ Machine Learning & Data Analysis
 I love to explore data, create visualizations, and build machine learning models to solve real-world problems and make complex information easy to understand and actionable.
 
 * ✉️  You can contact me at [halimanafees1@gmail.com](mailto:halimanafees1@gmail.com)
-* 🧠  I'm learning Cybersecurity (BS) and blockchain development (diploma).
+* 🧠  I'm learning Cybersecurity (BS).
 * 🤝  I'm open to collaborating on Data Science Projects
 * ⚡  Open to exploring new technologies and ideas.
 
