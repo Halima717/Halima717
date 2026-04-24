@@ -1,16 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Haleema
+## Haleema Nafees
+#### Data Scientist | Machine Learning | Computer Vision | Predictive Modeling
+
+
 ======================================================================================================================================
 
-Machine Learning & Data Analysis
+
+
+I design and develop data-driven solutions by leveraging advanced data preprocessing, exploratory analysis, and machine learning techniques. My work focuses on solving real-world problems through robust classification systems, predictive models, and computer vision applications, with an emphasis on accuracy, reliability, and interpretability.
+
+
+* 💡 **Specializations:** Machine Learning, Computer Vision, NLP, Anomaly Detection
+* 🛠️ **Tools & Technologies:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+* 📊 **Core Strengths:** Data Cleaning, Feature Engineering, EDA, Model Development & Evaluation
+* 🔐 **Current Focus:** Cybersecurity and secure system design
+
+📫 **Contact:** [halimanafees1@gmail.com](mailto:halimanafees1@gmail.com)
+
+
 --------------------------------
-
-I love to explore data, create visualizations, and build machine learning models to solve real-world problems and make complex information easy to understand and actionable.
-
-* ✉️  You can contact me at [halimanafees1@gmail.com](mailto:halimanafees1@gmail.com)
-* 🧠  I'm learning Cybersecurity (BS).
-* 🤝  I'm open to collaborating on Data Science Projects
-* ⚡  Open to exploring new technologies and ideas.
-
 
 ### Skills
 
