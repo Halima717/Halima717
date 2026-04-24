@@ -1,4 +1,4 @@
-## Haleema Nafees
+# Haleema Nafees
 #### Data Scientist | Machine Learning | Computer Vision | Predictive Modeling
 
 I design and develop data-driven solutions by leveraging advanced data preprocessing, exploratory analysis, and machine learning techniques. My work focuses on solving real-world problems through robust classification systems, predictive models, and computer vision applications, with an emphasis on accuracy, reliability, and interpretability.
