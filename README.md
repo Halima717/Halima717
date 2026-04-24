@@ -1,13 +1,7 @@
 ## Haleema Nafees
 #### Data Scientist | Machine Learning | Computer Vision | Predictive Modeling
 
-
-======================================================================================================================================
-
-
-
 I design and develop data-driven solutions by leveraging advanced data preprocessing, exploratory analysis, and machine learning techniques. My work focuses on solving real-world problems through robust classification systems, predictive models, and computer vision applications, with an emphasis on accuracy, reliability, and interpretability.
-
 
 * 💡 **Specializations:** Machine Learning, Computer Vision, NLP, Anomaly Detection
 * 🛠️ **Tools & Technologies:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
@@ -16,11 +10,9 @@ I design and develop data-driven solutions by leveraging advanced data preproces
 
 📫 **Contact:** [halimanafees1@gmail.com](mailto:halimanafees1@gmail.com)
 
-
 --------------------------------
 
 ### Skills
-
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -36,8 +28,6 @@ I design and develop data-driven solutions by leveraging advanced data preproces
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" />
   </a>
 </p>
-
-
 
 ### Socials
 
