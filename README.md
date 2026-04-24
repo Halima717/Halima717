@@ -3,12 +3,12 @@
 
 I design and develop data-driven solutions by leveraging advanced data preprocessing, exploratory analysis, and machine learning techniques. My work focuses on solving real-world problems through robust classification systems, predictive models, and computer vision applications, with an emphasis on accuracy, reliability, and interpretability.
 
-* 💡 **Specializations:** Machine Learning, Computer Vision, NLP, Anomaly Detection
-* 🛠️ **Tools & Technologies:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-* 📊 **Core Strengths:** Data Cleaning, Feature Engineering, EDA, Model Development & Evaluation
-* 🔐 **Current Focus:** Cybersecurity and secure system design
+* **Specializations:** Machine Learning, Computer Vision, NLP, Anomaly Detection
+* **Tools & Technologies:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+* **Core Strengths:** Data Cleaning, Feature Engineering, EDA, Model Development & Evaluation
+* **Current Focus:** Cybersecurity and secure system design
 
-📫 **Contact:** [halimanafees1@gmail.com](mailto:halimanafees1@gmail.com)
+**Contact:** [halimanafees1@gmail.com](mailto:halimanafees1@gmail.com)
 
 --------------------------------
 
